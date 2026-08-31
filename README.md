@@ -15,3 +15,10 @@
 ## License
 
 本仓库采用 [MIT](./LICENSE) 许可证。
+
+学习资料
+
+https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management/
+
+PI-AGENT BOOK
+https://books.antinomie.org/pi/chapter/02#%E5%87%BA%E5%8F%91-agent-prompt
