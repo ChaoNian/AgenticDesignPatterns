@@ -27,5 +27,14 @@ https://books.antinomie.org/pi/chapter/02#%E5%87%BA%E5%8F%91-agent-prompt
 
 AI 评估 资料
 https://hamel.dev/blog/posts/evals-faq/what-are-llm-evals.html?utm_source=chatgpt.com
-
+人工智能评估：你需要知道的一切
 https://hamel.dev/blog/posts/evals-faq/?utm_source=chatgpt.com
+
+什么是AI评估？
+https://hamel.dev/blog/posts/evals-faq/what-are-llm-evals.html?utm_source=chatgpt.com
+
+什么是最小可行评估方案？
+https://hamel.dev/blog/posts/evals-faq/whats-a-minimum-viable-evaluation-setup.html?utm_source=chatgpt.com
+
+如何评估智能体工作流程？
+https://hamel.dev/blog/posts/evals-faq/how-do-i-evaluate-agentic-workflows.html?utm_source=chatgpt.com
