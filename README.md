@@ -24,3 +24,8 @@ https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management/
 
 按案例：PI-AGENT BOOK
 https://books.antinomie.org/pi/chapter/02#%E5%87%BA%E5%8F%91-agent-prompt
+
+AI 评估 资料
+https://hamel.dev/blog/posts/evals-faq/what-are-llm-evals.html?utm_source=chatgpt.com
+
+https://hamel.dev/blog/posts/evals-faq/?utm_source=chatgpt.com
