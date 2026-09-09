@@ -4,7 +4,6 @@
 
 ## 当前状态
 
-仓库已完成初始化。模式笔记、示例代码与学习路线将陆续补充。
 
 ## 后续方向
 
@@ -22,7 +21,7 @@
 基础概念
 https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management/
 
-按案例：PI-AGENT BOOK
+案例：PI-AGENT BOOK
 https://books.antinomie.org/pi/chapter/02#%E5%87%BA%E5%8F%91-agent-prompt
 
 AI 评估 资料
