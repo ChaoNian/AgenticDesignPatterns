@@ -37,3 +37,7 @@ https://hamel.dev/blog/posts/evals-faq/whats-a-minimum-viable-evaluation-setup.h
 
 如何评估智能体工作流程？
 https://hamel.dev/blog/posts/evals-faq/how-do-i-evaluate-agentic-workflows.html?utm_source=chatgpt.com
+
+AI Agent 应用精细化评测：评测体系设计与工程实践; https://mp.weixin.qq.com/s/6kpzWl4pkZJe-oJluxgZjg
+
+真正拉开Agent差距的是Context Engineering     https://mp.weixin.qq.com/s/mbU0bE6BV5YfAsTmoY4H3A
