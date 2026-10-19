@@ -44,3 +44,6 @@ AI Agent 应用精细化评测：评测体系设计与工程实践; https://mp.w
 
 
 语音识别模型 https://www.funasr.com/ecosystem.html
+
+
+深入理解 AI Agent https://bojieli.github.io/ai-agent-book/astro/#contents
